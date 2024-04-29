@@ -1,0 +1,30 @@
+body{
+    background-color: #1F1F1F;
+}
+
+.navbar-color{
+    background-color: #1F1F1F;
+}
+
+.roboto-slab-font{
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+a:hover {
+    color:#EAC683!important;
+}
+
+.image-container {
+    position: relative;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #EDA011;
+}
