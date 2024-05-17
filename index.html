@@ -11,30 +11,33 @@
     <!--Google fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
 
     <!--CSS-->
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <title>WILD</title>
 </head>
 <body>
+    <!--Imagem-->
+    
+    
     <!--Navbar-->
-    <nav class="navbar navbar-expand-sm navbar-light navbar-color roboto-slab-font">
+    <nav class="navbar navbar-expand-sm nav-text karla-font">
         <div class="container-fluid ">
-          <a class="navbar-brand" style="color:#EDA011;" href="#">WILD</a>
+        <img src="imgs/logo.png" width="60" height="60" alt="Logo_WILD">
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse " id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto">
               <li class="nav-item">
-                <a class="nav-link active font-color" style="color:#EDA011;" aria-current="page" href="#sobre-nos">Sobre nós</a>
+                <a class="nav-link active" style="color:#FFFFFF;" aria-current="page" href="#sobre-nos">Sobre nós</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active font-color" style="color:#EDA011;" href="#projeto">Projeto</a>
+                <a class="nav-link active" style="color:#FFFFFF;" href="#projeto">Projeto</a>
               </li>			
               <li class="nav-item">
-                <a class="nav-link active" style="color:#EDA011;" href="#integrantes">Integrantes</a>
+                <a class="nav-link active" style="color:#FFFFFF;" href="#integrantes">Integrantes</a>
               </li>	
             </ul>		  
           </div>
@@ -43,48 +46,16 @@
 
       <!--Header-->
       <header>
-        <div class="image-container">
-          <img class="img-fluid" style="width: 100%; position: relative;" src="imgs/Header.png" alt="">
-          <h3 class="roboto-slab-font text-overlay" style="font-weight: 900; font-size: min(190px, 15vw);">WILD</h3>
-          <p class="roboto-slab-font text-overlay" style="top: 55%; font-size: min(39px, 3vw); text-align: center; width: 30%;">Proteção de Animais Silvestres</p>
-        </div>
+        <div class="header"></div>
+            <div class="container">
+                <h3 class="karla-font" style="font-size: min(240px, 15vw); color: #FFFFFF; margin-top: 10%;">W I L D</h3>
+                <p class="karla-font" style="font-size: min(33px, 3vw); color: #FFFFFF;">Proteção de <span style="color: #EDA011;">Animais Silvestres</span></p>
+                <button type="button" class="btn btn-lg mt-3 karla-font" style="background-color: #EDA011; color: #FFFFFF;" href="#sobre-nos">Saiba mais!</button>
+             </div>
       </header>
 
-      <!--Conteúdo-->
-      <section class="container-fluid">
-        <!--Sobre nós-->
-        <div class="container">
-          <h1 class="roboto-slab-font text-center mt-5" id="sobre-nos" style="color: #ffffff; font-size: min(55px, 6vw);">Sobre <span style="color: #EDA011;">nós</span></h1>
+      
 
-          <div class="row mt-3">
-            <div class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
-              <center>
-                <img class="img-fluid" style="width: 90%;" src="imgs/img_sobre-nos.png">
-              </center>
-            </div>
-            <div class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
-              <p class="roboto-slab-font mt-3" style="color: #ffffff; font-size: min(25px, 4vw);"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. </p>
-            </div>
-          </div>
-  
-          <div class="row mt-3">
-            <div class="col-12">
-              <p class="roboto-slab-font mt-3" style="color: #ffffff; font-size: min(25px, 4vw);"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="container-fluid" style="background-color: #313131; width: 100s;">
-
-          <div class="container">
-            <!--Projeto-->
-            <h1 class="roboto-slab-font text-center" id="sobre-nos" style="color: #ffffff; font-size: min(55px, 6vw); margin-top: 10%;">Projeto <span style="color: #EDA011;">WILD</span></h1>
-  
-            <p class="roboto-slab-font mt-4" style="color: #ffffff; font-size: min(25px, 4vw);"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet urna sit amet massa tristique, et ultricies odio cursus. Vivamus sodales velit venenatis, viverra turpis eget, suscipit nulla.</p>
-          </div>
-            
-        </div>
-
-      </section>
+      
 </body>
 </html>
