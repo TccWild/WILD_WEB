@@ -1,0 +1,89 @@
+body{
+    background-color: #181818;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;              
+}
+  
+body::-webkit-scrollbar-track {
+    background: #2f2f2f;        
+}
+  
+body::-webkit-scrollbar-thumb {
+    background-color: #5c5c5c;    
+    border-radius: 20px;       
+    border: 2px solid #656565;  
+}
+
+.karla-font {
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+nav{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 70px;
+    transition: 0.5 linear;
+
+}
+
+.logo img{
+    width: 60px;
+}
+
+.navbar{
+    display: flex;
+}
+
+.navbar a{
+    padding: 8px 17px;
+    color: #FFFFFF;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.navbar a:hover{
+    background: #EAC683;
+    border-radius: 0.2rem;
+    transition: 0.2 all linear;
+}
+
+header {
+    padding: 50px 100px;
+}
+
+.home{
+    width: 100%;
+    min-height: 100vh;
+    background: url(../images/Header.png);
+    filter: brightness(0.5);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(17rem, auto));
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.home-text h1{
+    font-size: 10rem;
+    color: #FFFFFF;
+    margin: 0.5rem 0 1.4rem;
+}
+
+.home-text p{
+    color: #FFFFFF;
+    font-size: 1.4rem;
+}
+
