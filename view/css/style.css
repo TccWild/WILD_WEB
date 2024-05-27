@@ -44,16 +44,15 @@ header img{
 }
 
 main img{
-    width: 80%;
-    border-radius: 2%;
+    width: 75%;
 }
 
-h1, p{
+h1, h4, p{
     color: var(--white);
 }
 
 p{
-    font-size: min(23px, 4vw); 
+    font-size: min(22px, 4vw); 
 }
 
 .bg-card{

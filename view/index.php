@@ -6,43 +6,102 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-xxl-6 col-xl-6 mt-4 text-center">
-                    <img src="images/imagem1.png" alt="">
+                    <img src="images/img1.png" alt="">
                 </div>
                 <div class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
                     <h1 id="sobre-nos">Sobre <span style="color: #EDA011;">nós</span></h1>
-                    <p class="mt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut accusantium quidem, rerum assumenda saepe voluptatum ipsum? Alias iure, deleniti sequi minus facilis veniam aspernatur nulla eius in. Fuga, placeat cupiditate. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam soluta sunt pariatur necessitatibus quia hic non eius qui laudantium, accusantium accusamus deleniti facere tenetur nemo odit blanditiis iure nostrum laboriosam?</p>
+                    <p class="mt-4">A WILD tem por objetivo facilitar a comunicação entre o cidadão comum e as autoridades ambientais, simplificando o processo de denúncia e resposta.</p>
+                    <p>Atualmente, o Vale do Ribeira detém 2,1 milhões de hectares de florestas, o que equivalem a aproximadamente 21% de toda Mata Atlântica que resta no Brasil, devido a esse alto nível de preservação da flora, a fauna também é bem ampla.</p>
                 </div>
             </div>
         </div>
         <div class="container mt-5">
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam doloremque perspiciatis asperiores distinctio natus fugiat veritatis harum optio totam et! Deserunt natus numquam facilis! Vel iste nostrum nesciunt quia quo?</p>
+            <p>Por conseguinte, há aproximadamente 849 espécies de aves, 370 espécies de anfíbios, 200 de répteis e cerca de 350 espécies de peixes, porém estima-se que 50 dessas espécies estão ameaçadas de extinção. Logo, a WILD busca fornecer uma maneira prática para que o cidadão possa preservar o ecossistema.</p>
+
+            <center>
+            <!--Carrossel-->
+            <div id="demo" class="carousel slide mt-5" data-bs-ride="carousel" style="width: 70%;">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="3"></button>
+                    <button type="button" data-bs-target="#demo" data-bs-slide-to="4"></button>
+                </div>
+  
+                <div class="carousel-inner rounded">
+                    <div class="carousel-item active">
+                        <img src="images/1.png" alt="Primeira imagem" class="d-block w-100">
+                    </div>
+                    <div class="carousel-item rounded">
+                        <img src="images/2.png" alt="Segunda imagem" class="d-block w-100">
+                    </div>
+                    <div class="carousel-item rounded">
+                        <img src="images/3.png" alt="Terceira imagem" class="d-block w-100">
+                    </div>
+                    <div class="carousel-item rounded">
+                        <img src="images/4.png" alt="Segunda imagem" class="d-block w-100">
+                    </div>
+                    <div class="carousel-item rounded">
+                        <img src="images/5.png" alt="Terceira imagem" class="d-block w-100">
+                    </div>
+                </div>
+  
+                <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                </button>
+            </div>
+            </center>
         </div>
     </div>
 
     <div class="container-fluid mt-5" style="background-color: #212121; padding-top: 90px; padding-bottom: 90px;">
         <div class="container">
             <h1 class="text-center" id="projeto-wild">Projeto <span style="color: #EDA011;">WILD</span></h1>
-            <p class="mt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam possimus voluptatum sequi magnam aut eius iure mollitia accusantium cumque, expedita aperiam repellat inventore officiis deleniti asperiores ut non adipisci aliquid? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus aliquid explicabo facilis eligendi quos, ratione sequi corporis, velit quo voluptatibus nemo consequuntur, neque id iure dolores asperiores nam quia natus! Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur saepe earum illum, voluptatum minus sint? Omnis architecto necessitatibus aut quisquam nesciunt, repellat eos cumque blanditiis, explicabo enim, voluptas sapiente consectetur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam assumenda corrupti dolorum repellat a dolore sequi optio aperiam cum veniam. Possimus nam in non sed perferendis ab, autem fugiat quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, ipsa repudiandae, quibusdam harum autem nulla nobis ad reiciendis libero consequatur animi excepturi enim culpa ipsam expedita quia necessitatibus fugit deserunt!</p>
+            <p class="mt-4">
+                Tendo em vista de que há um constante crescimento dos perigos enfrentados pelos animais silvestres no Vale do Ribeira, caso medidas preventivas não sejam adequadamente implementadas, levará na extinção de diversas espécies desses animais. Sendo assim, o projeto WILD visa:
+            </p>
+            
+            <div class="row">
+                <div class="col-6 mt-5">
+                    <h4 class="mb-3">Para o <span style="color: #EDA011;">cidadão</span></h4>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Maior segurança em situações de risco;</span></p>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Conectar-se com as autoridades;</span></p>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Facilitar o processo de denúncia;</span></p>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Apresentar uma fácil identificação dos animais;</span></p>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Adicionar descrições;</span></p> 
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Enviar com facilidade sua localização;</span></p>    
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Receber atualizações sobre os animais denunciados.</span></p>  
+                </div>
+                <div class="col-6 mt-5">
+                <h4 class="mb-3">Para a <span style="color: #EDA011;">autoridade</span></h4>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Atender mais pessoas com facilidade;</span></p>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Conectar-se com a população;</span></p>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Facilitar o processo de atender denúncias;</span></p>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Visualizar a localização e o nível de periculosidade da denúncia;</span></p>
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Exibir com facilidade todas as denúncias que a equipe deve atender;</span></p> 
+                    <p class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Enviar atualizações sobre o animal resgatado</span></p>      
+                </div>
+            </div>
 
-            <div class="row text-center mt-5">
+            <!--<div class="row text-center mt-5">
                 <div class="col-sm-12 col-xxl-6 col-xl-6">
                     <img src="images/grafico.png" style="width: 70%;"  alt="">
                 </div>
                 <div class="col-sm-12 col-xxl-6 col-xl-6 ">
                     <img src="images/grafico.png" style="width: 70%;"  alt="">
                 </div>
-            </div>
-        </div>
-
-        <div class="container mt-5 text-center" style="padding-top: 50px;">
-            <img src="images/carrossel.png" class="70%">
+            </div>-->
         </div>
     </div> 
 </main>
 
 <!--Card-->
 <section>
-    <div class="container" style="padding-top: 300px">
+    <div class="container" style="padding-top: 200px">
         <h1 id="nossa-equipe" class="text-center">Nossa <span style="color: #EDA011;">equipe!</span></h1>
         <div class="row text-center mt-5">
 
@@ -53,7 +112,7 @@
                     <span class="small text-uppercase ">Designer</span>
                     <ul class="social mb-0 list-inline mt-3">
                         <li class="list-inline-item">
-                            <a href="#" class="social-link">
+                            <a href="https://www.instagram.com/egenbia" class="social-link">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </li>
@@ -74,7 +133,7 @@
                     <span class="small text-uppercase">Programador Mobile</span>
                     <ul class="social mb-0 list-inline mt-3">
                         <li class="list-inline-item">
-                            <a href="#" class="social-link">
+                            <a href="https://www.instagram.com/ihs_novaes" class="social-link">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </li>
@@ -94,7 +153,7 @@
                     <span class="small text-uppercase">Programadora Web</span>
                     <ul class="social mb-0 list-inline mt-3">
                         <li class="list-inline-item">
-                            <a href="#" class="social-link">
+                            <a href="https://www.instagram.com/gabrieelapl" class="social-link">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </li>
@@ -117,7 +176,7 @@
                     <span class="small text-uppercase">Programador Mobile</span>
                     <ul class="social mb-0 list-inline mt-3">
                         <li class="list-inline-item">
-                            <a href="#" class="social-link">
+                            <a href="https://www.instagram.com/fx_zzl" class="social-link">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </li>
