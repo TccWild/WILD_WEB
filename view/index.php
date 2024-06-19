@@ -11,12 +11,14 @@
                 <div class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
                     <h1 id="sobre-nos">Sobre <span style="color: #EDA011;">nós</span></h1>
                     <p class="mt-4">A WILD tem por objetivo facilitar a comunicação entre o cidadão comum e as autoridades ambientais, simplificando o processo de denúncia e resposta.</p>
-                    <p>Atualmente, o Vale do Ribeira detém 2,1 milhões de hectares de florestas, o que equivalem a aproximadamente 21% de toda Mata Atlântica que resta no Brasil, devido a esse alto nível de preservação da flora, a fauna também é bem ampla.</p>
+                    <p>Situado no sul do Estado de São Paulo e no leste do Estado do Paraná, o Vale do Ribeira estende-se ao longo de 2 839 666 hectares e trata-se da maior área contínua de Mata Atlântica preservada do Brasil, que hoje está reduzida a 7% de sua área. Desse total, 23% se situam no Vale do Ribeira.</p>
                 </div>
             </div>
         </div>
         <div class="container mt-5">
-            <p>Por conseguinte, há aproximadamente 849 espécies de aves, 370 espécies de anfíbios, 200 de répteis e cerca de 350 espécies de peixes, porém estima-se que 50 dessas espécies estão ameaçadas de extinção. Logo, a WILD busca fornecer uma maneira prática para que o cidadão possa preservar o ecossistema.</p>
+            <p>De acordo com a historiografia, o Vale do Ribeira enfrenta diversos desafios decorrentes da exploração iniciados desde os tempos coloniais. Por conseguinte, o desequilíbrio ecológico na região tem impactos diretos no ecossistema, uma vez que os animais silvestres desempenham um papel crucial na dinâmica das comunidades de plantas, na qualidade da água, na polinização e no controle de pragas.</p>
+
+            <p>Com a fauna ampla, o Vale do Ribeira tem cerca de 849 espécies de aves, 370 espécies de anfíbios, 200 de répteis e cerca de 350 espécies de peixes, porém estima-se que 50 dessas espécies estão ameaçadas de extinção. Logo, a WILD busca fornecer uma maneira prática para que o cidadão possa preservar o ecossistema.</p>
 
             <center>
             <!--Carrossel-->
