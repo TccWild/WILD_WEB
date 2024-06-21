@@ -101,7 +101,7 @@
     </div> 
 
     <div class="container" style="padding-top: 90px;">
-        <h1 class="text-center" id="projeto-wild">Aplicativo <span style="color: #EDA011;">WILD</span></h1>
+        <h1 class="text-center" id="aplicativo">Aplicativo <span style="color: #EDA011;">WILD</span></h1>
         <p class="mt-4">
             O aplicativo WILD visa facilitar a comunicação entre o cidadão comum e a autoridade ambiental, simplificando o processo de denúncia e resposta. Quando um animal em situação de risco é avistado, os usuários podem facilmente fornecer sua localização e estado através do aplicativo, gerando uma denúncia que é encaminhada diretamente às autoridades, assim, agilizando o atendimento às queixas e promovendo uma maior segurança tanto para os animais quanto para a sociedade.
         </p>
