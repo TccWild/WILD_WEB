@@ -140,9 +140,10 @@
 <!--Card-->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
+
 <div class="container">
     <div class="row">
-        <div data-aos="fade-up" class="col-sm-12 col-xxl-3 col-xl-3 mt-4">
+        <div data-aos="fade-up" class="col-sm-12 col-xxl-4 col-xl-4 mt-4">
             <div class="content">
                 <div class="card">
                     <div class="firstinfo"><img src="images/gabriela.jpeg" />
@@ -160,7 +161,25 @@
         </div>
         </div>
 
-        <div data-aos="fade-up" class="col-sm-12 col-xxl-3 col-xl-3 mt-4">
+        <div data-aos="fade-up" class="col-sm-12 col-xxl-4 col-xl-4 mt-4">
+            <div class="content">
+                <div class="card">
+                    <div class="firstinfo"><img src="images/gabriela.jpeg" />
+                        <div class="profileinfo">
+                        <h1>Gabriela <span style="color: #EDA011;">Lino</span></h1>
+                        <h3>Desenvolvedora Web</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="badgescard"> 
+                <span class="fa fa-instagram"></span>
+                <span class="fa fa-twitter"> </span>
+                <span class="fa fa-github"></span>
+            </div>
+        </div>
+        </div>
+
+        <div data-aos="fade-up" class="col-sm-12 col-xxl-4 col-xl-4 mt-4">
             <div class="content">
                 <div class="card">
                     <div class="firstinfo"><img src="images/gabriela.jpeg" />
@@ -180,6 +199,48 @@
 
     </div>
 </div>
+
+<div class="container mt-5">
+    <div class="row">
+    <div data-aos="fade-up" class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
+            <div class="content">
+                <div class="card" style="width:400px;">
+                    <div class="firstinfo"><img src="images/gabriela.jpeg" />
+                        <div class="profileinfo">
+                        <h1>Gabriela <span style="color: #EDA011;">Lino</span></h1>
+                        <h3>Desenvolvedora Web</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="badgescard"> 
+                <span class="fa fa-instagram"></span>
+                <span class="fa fa-twitter"> </span>
+                <span class="fa fa-github"></span>
+            </div>
+        </div>
+        </div>
+
+        <div data-aos="fade-up" class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
+            <div class="content">
+                <div class="card">
+                    <div class="firstinfo"><img src="images/gabriela.jpeg" />
+                        <div class="profileinfo">
+                        <h1>Gabriela <span style="color: #EDA011;">Lino</span></h1>
+                        <h3>Desenvolvedora Web</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="badgescard"> 
+                <span class="fa fa-instagram"></span>
+                <span class="fa fa-twitter"> </span>
+                <span class="fa fa-github"></span>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+
 
 
 

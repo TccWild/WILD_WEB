@@ -77,7 +77,7 @@ section span{
 }
 
 .card {
-    width: 500px;
+    width: 370px;
     min-height: 100px;
     padding: 20px;
     border-radius: 3px;
@@ -102,7 +102,7 @@ section span{
     border-radius: 3px;
     background-color: #dea02b;
     color:#f3dab6;
-    width: 480px;
+    width: 350px;
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
     position: absolute;
     z-index: -1;
