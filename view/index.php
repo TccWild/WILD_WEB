@@ -143,23 +143,24 @@
 
 <div class="container" style="padding-top: 130px;">
     <h1 data-aos="fade-up" class="text-center mb-4" id="aplicativo">Nossa <span style="color: #EDA011;">equipe</span></h1>
+
     <div class="row">
         <div data-aos="fade-up" class="col-sm-12 col-xxl-4 col-xl-4 mt-4">
             <div class="content">
                 <div class="card">
                     <div class="firstinfo"><img src="images/beatriz.jpeg" />
                         <div class="profileinfo">
-                        <h1>Beatriz <span style="color: #EDA011;">Egen</span></h1>
-                        <h3>Designer</h3>
+                            <h1>Beatriz <span style="color: #EDA011;">Egen</span></h1>
+                            <h3>Designer</h3>
+                        </div>
                     </div>
                 </div>
+                <div class="badgescard"> 
+                    <span class="fa fa-instagram"></span>
+                    <span class="fa fa-twitter"> </span>
+                    <span class="fa fa-github"></span>
+                </div>
             </div>
-            <div class="badgescard"> 
-                <span class="fa fa-instagram"></span>
-                <span class="fa fa-twitter"> </span>
-                <span class="fa fa-github"></span>
-            </div>
-        </div>
         </div>
 
         <div data-aos="fade-up" class="col-sm-12 col-xxl-4 col-xl-4 mt-4">
@@ -167,17 +168,17 @@
                 <div class="card">
                     <div class="firstinfo"><img src="images/gabriela.jpeg" />
                         <div class="profileinfo">
-                        <h1>Gabriela <span style="color: #EDA011;">Lino</span></h1>
-                        <h3>Desenvolvedora Web</h3>
+                            <h1>Gabriela <span style="color: #EDA011;">Lino</span></h1>
+                            <h3>Desenvolvedora Web</h3>
+                        </div>
                     </div>
                 </div>
+                <div class="badgescard"> 
+                    <span class="fa fa-instagram"></span>
+                    <span class="fa fa-twitter"> </span>
+                    <span class="fa fa-github"></span>
+                </div>
             </div>
-            <div class="badgescard"> 
-                <span class="fa fa-instagram"></span>
-                <span class="fa fa-twitter"> </span>
-                <span class="fa fa-github"></span>
-            </div>
-        </div>
         </div>
 
         <div data-aos="fade-up" class="col-sm-12 col-xxl-4 col-xl-4 mt-4">
@@ -185,41 +186,40 @@
                 <div class="card">
                     <div class="firstinfo"><img src="images/isaac.jpeg" />
                         <div class="profileinfo">
-                        <h1>Isaac <span style="color: #EDA011;">Hideki</span></h1>
-                        <h3>Desenvolvedor mobile</h3>
+                            <h1>Isaac <span style="color: #EDA011;">Hideki</span></h1>
+                            <h3>Desenvolvedor mobile</h3>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="badgescard"> 
-                <span class="fa fa-instagram"></span>
-                <span class="fa fa-twitter"> </span>
-                <span class="fa fa-github"></span>
+                <div class="badgescard"> 
+                    <span class="fa fa-instagram"></span>
+                    <span class="fa fa-twitter"> </span>
+                    <span class="fa fa-github"></span>
+                </div>
             </div>
         </div>
-        </div>
-
     </div>
 </div>
 
 
 <div class="container mt-5">
     <div class="row">
-    <div data-aos="fade-up" class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
+        <div data-aos="fade-up" class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
             <div class="content">
                 <div class="card" style="width:600px;">
                     <div class="firstinfo"><img src="images/felipe.jpeg" />
                         <div class="profileinfo">
-                        <h1>Felipe <span style="color: #EDA011;">Zoraski</span></h1>
-                        <h3>Desenvolvedor mobile</h3>
+                            <h1>Felipe <span style="color: #EDA011;">Zoraski</span></h1>
+                            <h3>Desenvolvedor mobile</h3>
+                        </div>
                     </div>
                 </div>
+                <div class="badgescard" style="width: 580px;"> 
+                    <span class="fa fa-instagram"></span>
+                    <span class="fa fa-twitter"> </span>
+                    <span class="fa fa-github"></span>
+                </div>
             </div>
-            <div class="badgescard" style="width: 580px;"> 
-                <span class="fa fa-instagram"></span>
-                <span class="fa fa-twitter"> </span>
-                <span class="fa fa-github"></span>
-            </div>
-        </div>
         </div>
 
         <div data-aos="fade-up" class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
@@ -227,27 +227,20 @@
                 <div class="card" style="width: 600px;">
                     <div class="firstinfo"><img src="images/alcina.jpeg" />
                         <div class="profileinfo">
-                        <h1>Alcina <span style="color: #EDA011;">Freitas</span></h1>
-                        <h3>Responsável pelos textos</h3>
+                            <h1>Alcina <span style="color: #EDA011;">Freitas</span></h1>
+                            <h3>Responsável pelos textos</h3>
+                        </div>
                     </div>
                 </div>
+                <div class="badgescard" style="width: 580px;"> 
+                    <span class="fa fa-instagram"></span>
+                    <span class="fa fa-twitter"> </span>
+                    <span class="fa fa-github"></span>
+                </div>
             </div>
-            <div class="badgescard" style="width: 580px;"> 
-                <span class="fa fa-instagram"></span>
-                <span class="fa fa-twitter"> </span>
-                <span class="fa fa-github"></span>
-            </div>
-        </div>
         </div>
     </div>
 </div>
-
-
-
-
-
-
-
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
