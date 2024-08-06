@@ -69,7 +69,7 @@
             
             <div class="row">
                 <div class="col-6 mt-5">
-                    <h4 data-aos="fade-up" class="mb-3">Para o <span style="color: #EDA011;">cidadão</span></h4>
+                    <h2 data-aos="fade-up" class="mb-3">Para o <span style="color: #EDA011;">cidadão</span></h2>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Maior segurança em situações de risco;</span></p>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Conectar-se com as autoridades;</span></p>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Facilitar o processo de denúncia;</span></p>
@@ -79,7 +79,7 @@
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Receber atualizações sobre os animais denunciados.</span></p>  
                 </div>
                 <div class="col-6 mt-5">
-                <h4 data-aos="fade-up" class="mb-3">Para a <span style="color: #EDA011;">autoridade</span></h4>
+                <h2 data-aos="fade-up" class="mb-3">Para a <span style="color: #EDA011;">autoridade</span></h2>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Atender mais pessoas com facilidade;</span></p>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Atender mais pessoas com facilidade;</span></p>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Conectar-se com a população;</span></p>
@@ -115,7 +115,7 @@
                 <img src="images/app_cidadao.png" alt="" style="width:100%;">
             </div>
             <div class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
-                <h4 data-aos="fade-up" class="mt-3 bi bi-arrow-return-right" style="color: #EDA011;"> <span style="color: #FFFFFF;">Para o </span><span style="text-decoration: underline #EDA011; color: #FFFFFF;">cidadão</span></h4>
+                <h2 data-aos="fade-up" class="mt-3 bi bi-arrow-return-right" style="color: #EDA011;"> <span style="color: #FFFFFF;">Para o </span><span style="text-decoration: underline #EDA011; color: #FFFFFF;">cidadão</span></h2>
 
                 <p data-aos="fade-up">Para o cidadão comum, o aplicativo WILD oferece um fácil processo de denúncia e comunicação com as autoridades competentes, assim, garantindo à ele uma maior segurança. Os usuários também podem cadastrar novos animais, adicionar descrições e enviar sua localização, o que agiliza o processo de denúncia e garante que as informações cheguem de forma clara e precisa às autoridades. Além disso, para lhes proporcionar uma maior transparência e tranquilidade quanto ao andamento das denúncias, os cidadãos recebem atualizações sobre os animais denunciados.</p>
             </div>
@@ -125,7 +125,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
-                <h4 data-aos="fade-up" class="mt-5 bi bi-arrow-return-right" style="color: #EDA011;"> <span style="color: #FFFFFF;">Para a </span><span style="text-decoration: underline #EDA011; color: #FFFFFF;">autoridade</span></h4>
+                <h2 data-aos="fade-up" class="mt-5 bi bi-arrow-return-right" style="color: #EDA011;"> <span style="color: #FFFFFF;">Para a </span><span style="text-decoration: underline #EDA011; color: #FFFFFF;">autoridade</span></h2>
 
                 <p data-aos="fade-up">A versão do aplicativo WILD para a autoridade ambiental, possibilitando à autoridade atender um maior número de pessoas com eficiência, o sistema oferece um processo de atendimento às denúncias simplificado, permitindo que a autoridade visualize a localização exata do animal e o nível de periculosidade de cada caso, que são exibidos de forma organizada, priorizando situações mais urgentes. Além disso, as autoridades também podem enviar atualizações sobre os animais, tranquilizando os denunciantes.</p>
             </div>
