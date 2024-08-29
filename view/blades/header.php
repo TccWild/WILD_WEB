@@ -2,6 +2,8 @@
 
 <!--Header-->
 <header>
-    <img src="images/Header.png" id="home" class="img-fluid bg-img" alt="">
-    <h1>W I L D</h1>
+    <div class="content">
+        <h1>W I L D</h1>
+        <p>Proteção de animais silvestres no <span style="color: #EDA011">Vale do Ribeira</span>!</p>
+    </div>
 </header>

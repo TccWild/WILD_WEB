@@ -36,12 +36,25 @@ nav a:hover {
     border-top: 2px solid #EAC683;
 }
 
-header img{
-    object-fit: cover;
+header{
     width: 100%;
-    height: 100%;
-    position: relative;
-    filter: brightness(0.5);
+    height: 100vh;
+    background-position: bottom;
+    background-size: cover;
+    background-image: url(../images/Header.png);
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+header .content{
+    margin-bottom: 150px;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+header .content h1{
+    font-size: 30vh;
 }
 
 main img{
