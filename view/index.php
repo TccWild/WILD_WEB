@@ -11,7 +11,7 @@
                 <div class="col-sm-12 col-xxl-6 col-xl-6 mt-4">
                     <h1 data-aos="fade-up" id="sobre-nos">Sobre <span style="color: #EDA011;">nós</span></h1>
                     <p data-aos="fade-up" class="mt-4">A WILD tem por objetivo facilitar a comunicação entre o cidadão comum e as autoridades ambientais, simplificando o processo de denúncia e resposta.</p>
-                    <p data-aos="fade-up">Situado no sul do Estado de São Paulo e no leste do Estado do Paraná, o Vale do Ribeira estende-se ao longo de 2 839 666 hectares e trata-se da maior área contínua de Mata Atlântica preservada do Brasil, que hoje está reduzida a 7% de sua área. Desse total, 23% se situam no Vale do Ribeira.</p>
+                    <p data-aos="fade-up">Situado no sul do Estado de São Paulo e no leste do Estado do Paraná, o Vale do Ribeira estende-se ao longo de 2.839.666 hectares e trata-se da maior área contínua de Mata Atlântica preservada do Brasil, que hoje está reduzida a 7% de sua área. Desse total, 23% se situam no Vale do Ribeira.</p>
                 </div>
             </div>
         </div>
@@ -68,7 +68,7 @@
             </p>
             
             <div class="row">
-                <div class="col-6 mt-5">
+                <div class="col-xl-6 col-xxl-6 col-sm-12 mt-5">
                     <h2 data-aos="fade-up" class="mb-3">Para o <span style="color: #EDA011;">cidadão</span></h2>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Maior segurança em situações de risco;</span></p>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Conectar-se com as autoridades;</span></p>
@@ -78,7 +78,7 @@
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Enviar com facilidade sua localização;</span></p>    
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Receber atualizações sobre os animais denunciados.</span></p>  
                 </div>
-                <div class="col-6 mt-5">
+                <div class="col-xl-6 col-xxl-6 col-sm-12 mt-5">
                 <h2 data-aos="fade-up" class="mb-3">Para a <span style="color: #EDA011;">autoridade</span></h2>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Atender mais pessoas com facilidade;</span></p>
                     <p data-aos="fade-up" class="bi bi-arrow-return-right" style="color: #EDA011;"><span style="color: #FFFFFF;"> Atender mais pessoas com facilidade;</span></p>
