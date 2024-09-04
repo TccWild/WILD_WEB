@@ -41,10 +41,10 @@ header{
     height: 100vh;
     background-position: bottom;
     background-size: cover;
-    background-image: url(../images/Header.png);
+    background-image: url(../images/Header1.png);
     display: flex;
     align-items: flex-end;
-    justify-content: center;
+    justify-content: left;
 }
 
 header .content{

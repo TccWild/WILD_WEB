@@ -144,7 +144,7 @@
 
     <div class="row">
         <!--Beatriz-->
-        <div data-aos="fade-up" class="col-sm-2 col-xxl-4 col-xl-4">
+        <div data-aos="fade-up" class="col-sm-12 col-xxl-4 col-xl-4">
             <div class="cards rounded">
                 <div class="second p-4 text-center">
                     <img src="images/beatriz.jpeg" style="width: 100px" class="rounded-circle mb-3">
@@ -169,7 +169,7 @@
             </div>
         </div>
         <!--Gabriela-->
-        <div data-aos="fade-up" class="col-sm-2 col-xxl-4 col-xl-4">
+        <div data-aos="fade-up" class="col-sm-12 col-xxl-4 col-xl-4">
             <div class="cards rounded">
                 <div class="second p-4 text-center">
                     <img src="images/gabriela.jpeg" style="width: 100px" class="rounded-circle mb-3">
@@ -194,7 +194,7 @@
             </div>
         </div>
         <!--Isaac-->
-        <div data-aos="fade-up" class="col-sm-2 col-xxl-4 col-xl-4">
+        <div data-aos="fade-up" class="col-sm-12 col-xxl-4 col-xl-4">
             <div class="cards rounded">
                 <div class="second p-4 text-center">
                     <img src="images/isaac.jpeg" style="width: 100px" class="rounded-circle mb-3">
@@ -222,7 +222,7 @@
 
     <div data-aos="fade-up" class="row mt-5">
         <!--Felipe-->
-        <div class="col-sm-6 col-xxl-6 col-xl-6">
+        <div class="col-sm-12 col-xxl-6 col-xl-6">
             <div class="cards rounded">
                 <div class="second p-4 text-center">
                     <img src="images/felipe.jpeg" style="width: 100px" class="rounded-circle mb-3">
@@ -247,7 +247,7 @@
             </div>
         </div>
         <!--Alcina-->
-        <div data-aos="fade-up" class="col-sm-6 col-xxl-6 col-xl-6">
+        <div data-aos="fade-up" class="col-sm-12 col-xxl-6 col-xl-6">
             <div class="cards rounded">
                 <div class="second p-4 text-center">
                     <img src="images/alcina.jpeg" style="width: 100px" class="rounded-circle mb-3">
