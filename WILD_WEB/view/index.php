@@ -99,6 +99,44 @@
     </div>
 
     <!--Denúncias do mês-->
+    <div class="container" style="padding-top: 90px;">
+
+        <h1 data-aos="fade-up" class="text-center quicksand-font" id="aplicativo">Denúncias <span style="color: #EDA011;">recentes</span></h1>
+
+        <table data-aos="fade-up" class="table table-striped table-dark mt-5">
+            <thead>
+                <tr>
+                    <th scope="col">Código</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Mark</td>
+                    <td>Otto</td>
+                    <td>@mdo</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">2</th>
+                    <td>Jacob</td>
+                    <td>Thornton</td>
+                    <td>@fat</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">3</th>
+                    <td>Larry</td>
+                    <td>the Bird</td>
+                    <td>@twitter</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 
 </main>
 

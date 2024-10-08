@@ -17,6 +17,9 @@
                 </li>	
                 <li class="nav-item">
                     <a class="nav-link active" style="color:#FFFFFF;" href="#aplicativo">Aplicativo</a>
+                </li>	
+                <li class="nav-item">
+                    <a class="nav-link active" style="color:#FFFFFF;" href="#nossa-equipe">Denúncias</a>
                 </li>			
                 <li class="nav-item">
                     <a class="nav-link active" style="color:#FFFFFF;" href="#nossa-equipe">Integrantes</a>
